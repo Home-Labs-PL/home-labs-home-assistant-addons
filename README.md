@@ -17,7 +17,7 @@ Oba używają tego samego tokenu z panelu Home Labs (`hls_…`).
 3. Wklej adres i kliknij **Dodaj**:
 
    ```
-   https://github.com/Miho-Labs/home-labs-home-assistant-addons
+   https://github.com/Home-Labs-PL/home-labs-home-assistant-addons
    ```
 
 4. Odśwież sklep; w sekcji **Home Labs Add-ons** zainstaluj potrzebne dodatki i w zakładce
@@ -25,10 +25,10 @@ Oba używają tego samego tokenu z panelu Home Labs (`hls_…`).
 
 Albo jednym kliknięciem:
 
-[![Dodaj repozytorium do Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FMiho-Labs%2Fhome-labs-home-assistant-addons)
+[![Dodaj repozytorium do Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FHome-Labs-PL%2Fhome-labs-home-assistant-addons)
 
 > Repozytorium musi pozostać **publiczne** — Supervisor klonuje je bez uwierzytelnienia. Obrazy
-> `ghcr.io/miho-labs/home-labs-sync-*` i `home-labs-backup-*` również muszą być publiczne.
+> `ghcr.io/home-labs-pl/home-labs-sync-*` i `home-labs-backup-*` również muszą być publiczne.
 
 ### Przejście ze starych repozytoriów
 
