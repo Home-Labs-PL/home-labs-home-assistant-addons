@@ -2,9 +2,9 @@ name: Home Labs Sync
 version: 0.3.0
 slug: home_labs_sync
 description: Synchronizacja dashboardów, motywu, automatyzacji, scen, pakietów HA i zdjęć wygaszacza Home Labs oraz eksport encji
-url: https://github.com/Miho-Labs/home-labs-home-assistant-addons
+url: https://github.com/Home-Labs-PL/home-labs-home-assistant-addons
 arch: [aarch64, amd64]
-image: ghcr.io/miho-labs/home-labs-sync-{arch}
+image: ghcr.io/home-labs-pl/home-labs-sync-{arch}
 init: false
 startup: application
 boot: auto
